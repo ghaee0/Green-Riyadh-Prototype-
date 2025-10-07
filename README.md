@@ -1,6 +1,14 @@
 <h1>Green Riyadh App Prototype</h1>
 <a>My role: UI/UX designer</a>
+<h2>🎨 Design Assets</h2>
 
+<h3>🚀 Interactive Prototype</h3>
+<p>Explore the final interactive prototype with full user flows:</p>
+<a href="https://www.figma.com/design/6ueGdqKaCXfhqIxMC03u3t/Untitled?node-id=0-1&t=VT8Nf2v6ZlNZl3md-1" target="_blank">View Final Prototype</a>
+
+<h3>🎨 UI Kit & Design System</h3>
+<p>Browse the complete UI components, colors, and typography system:</p>
+<a href="https://www.figma.com/design/6ueGdqKaCXfhqIxMC03u3t/Untitled?node-id=545-4074&t=VT8Nf2v6ZlNZl3md-1" target="_blank">View UI Kit</a>
 <h2>Description</h2>
 <b>GreenThumb is a mobile app designed to support the Green Riyadh initiative, a large-scale project to increase greenery and plant trees across the city of Riyadh. The app aims to engage residents and encourage them to actively contribute to the greening of their city through volunteer planting activitie.
 </b>
