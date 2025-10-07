@@ -35,9 +35,41 @@
 <br />
 <h2>MY COMPETITIVE</h2>
 <h4>Direct</h4>
+<img width="83" height="83" alt="image" src="https://github.com/user-attachments/assets/30738646-e149-4b80-b89d-116f513bb488" />
+<img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/45c040d2-898e-49af-9be9-b44523b9ae69" />
+<img width="114" height="104" alt="image" src="https://github.com/user-attachments/assets/2fd53153-c80a-48df-948d-34fffa9a3d1e" />
+
 <h4>Indirect</h4>
+<img width="129" height="98" alt="image" src="https://github.com/user-attachments/assets/00fcd9ee-5283-4878-af00-76e992e991c3" />
+<img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/a2fcef4b-4788-4d5e-8b31-c942855be712" />
+
 <br /> 
 <h2>Design strategy</h2>
+<img width="652" height="477" alt="image" src="https://github.com/user-attachments/assets/c100c4b9-5037-441a-b0c5-bcf33599274b" />
+<h2>What have I used in each step?</h2>
+<p>The design strategy leveraged various design thinking methodologies to ensure a seamless and engaging user experience. The process began with a <strong>competitive audit</strong> where I conducted a <strong>comprehensive analysis</strong> of existing volunteering and plant care apps to identify industry trends, best practices, and potential areas of differentiation. <strong>This competitive research informed the next step, where I engaged in "How Might We"</strong> to deeply understand the target users' pain points, needs, and motivations. Through <strong>user interviews</strong> I was able to uncover rich insights. then moved into the <strong>ideation phase, generating wireframes</strong> To bring these ideas to life, I developed high-fidelity prototypes. <strong>Metrics such as time on task, error rate, and success rate</strong> were carefully tracked to validate the design decisions and ensure the app's functionality aligned with user expectations.</p>
+
+<h2>Wireframes</h2>
+<p>The wireframe establishes the app's information architecture and interaction flows to guide the development of high-fidelity mockups.</p>
+<img width="213" height="461" alt="image" src="https://github.com/user-attachments/assets/6ddd4b1d-1f77-44d8-8b55-cc06a44407de" />
+<h4>Step 1</h4>
+<p>Login</p>
+<img width="213" height="474" alt="image" src="https://github.com/user-attachments/assets/8b704f86-2c40-4941-a410-5365af42f132" />
+<h4>Step 2</h4>
+<p>After login Opportunity page will be displayed</p>
+<img width="213" height="461" alt="image" src="https://github.com/user-attachments/assets/e972bac3-5f2f-4c6f-8c4b-8e02aba0cebb" />
+<h4>Step 3</h4>
+<p>If the user pressed on the show more text button in step 2 a volunteer page with variety of volunteer option will be displayed</p>
+<img width="213" height="461" alt="image" src="https://github.com/user-attachments/assets/04beba3d-a8c6-47b4-b7fc-909a74abdd43" />
+<h4>Step 4</h4>
+<p>If the user pressed on a particular opportunity a detailed screen will show up</p>
+<img width="213" height="461" alt="image" src="https://github.com/user-attachments/assets/b0e0a9b6-fd4f-43c1-8ef4-5d45493f08b1" />
+<h4>Step 5</h4>
+<p>A confirmation pop up will display if the user pressed on Enroll now</p>
+<img width="213" height="461" alt="image" src="https://github.com/user-attachments/assets/4b6112da-2af4-444a-95e7-ed40be8afb85" />
+<h4>Step 6</h4>
+<p>If the user presses Yes this screen will be displayed indicating that the action has been done successfully/p>
+
 
 
 
